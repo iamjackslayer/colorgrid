@@ -1,0 +1,25 @@
+div.innerDiv{
+  width: 5.1875%;
+  display: inline-block;
+  background-color: #66ff33;
+  border-radius: 4px;
+  position:relative;
+  margin: 6.5px;
+
+}
+div.container{
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  border: 1px solid red;
+}
+
+
+button#newGrid{
+  display: block;
+  width: 30%;
+  height: 30px;
+  margin:6px auto 6px auto;
+  border: 1px solid red;
+  background-color: #e0ebeb;
+}
